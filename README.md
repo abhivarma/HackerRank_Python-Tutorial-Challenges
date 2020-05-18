@@ -1,2 +1,2 @@
 # Hackerrank
-Solve Problems
+Solved Problems
